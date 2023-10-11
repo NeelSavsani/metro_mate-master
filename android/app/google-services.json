@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "971659867295",
+    "firebase_url": "https://metro-mate-default-rtdb.firebaseio.com",
+    "project_id": "metro-mate",
+    "storage_bucket": "metro-mate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971659867295:android:2f7cb13c0beb567344deaa",
+        "android_client_info": {
+          "package_name": "com.example.metro_mate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971659867295-vgv4vj6cksaqqotocceml7680gbp2fhv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.metro_mate",
+            "certificate_hash": "5af3292ad8f100ec4bbd35edaabfc61f5738abe6"
+          }
+        },
+        {
+          "client_id": "971659867295-9ep1ia43c01tdro60fu8oaikrrtmv5ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKt87H3BdnK1373ZY2-j3m7yO3UUalBRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971659867295-9ep1ia43c01tdro60fu8oaikrrtmv5ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
