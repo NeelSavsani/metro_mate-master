@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:metro_mate/LogIn/MainPage.dart';
 import 'package:metro_mate/LogIn/SplashScreenPage.dart';
 import 'package:metro_mate/firebase_options.dart';
+// test message
 
 main() async {
   WidgetsFlutterBinding.ensureInitialized();
